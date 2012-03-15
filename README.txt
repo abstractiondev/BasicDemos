@@ -1,5 +1,5 @@
-Microsoft TechDays Finland 2012 Demonstrations for T4 and ADM Presentations
----------------------------------------------------------------------------
+BasicDemos (based on Microsoft TechDays Finland 2012 Demonstrations for T4 and ADM Presentations)
+-------------------------------------------------------------------------------------------------
 - Contents to be updated as the demos are uploaded here.
 
 T4 Focused Demos are located below "T4 Demos" and categorized to "Basic" and "Advanced".
